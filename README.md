@@ -1,6 +1,4 @@
-
-
- ![](C:\Users\maxim\AppData\Roaming\marktext\images\2024-09-02-20-36-43-Untitled.svg) ![](C:\Users\maxim\AppData\Roaming\marktext\images\2024-09-02-20-37-28-Untitled.svg)
+ ![GitHub License](https://img.shields.io/github/license/MOsinskyi/Prototype1?style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/MOsinskyi/Prototype1?style=for-the-badge&logo=unity)
 
 # Create with Code/Prototype 1
 
@@ -71,5 +69,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## ☎ Contact
 
 For any questions or inquiries, please contact me at [maximosinskiy@gmail.com](mailto:maximosinskiy@gmail.com)
-
-
